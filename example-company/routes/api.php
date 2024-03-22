@@ -15,5 +15,5 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/profile', function (Request $request) {
-    return response(['foo' => 'bar']);
+    return response(['application' => 'company']);
 });
