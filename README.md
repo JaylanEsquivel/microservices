@@ -1,4 +1,4 @@
-### :star: Implementação simples de uma arquitetura de Micro Serviço
+### :star: Implementação simples de uma arquitetura de Microsserviço
 
 - Laravel e NGINX
 
